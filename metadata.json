@@ -1,0 +1,6 @@
+{
+  "name": "SolarIQ AI — Solar Energy Optimization & Panel Health Monitoring System",
+  "description": "Interactive AI-powered solar energy optimization, real-time panel health monitoring, and intelligent generation analytics prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
